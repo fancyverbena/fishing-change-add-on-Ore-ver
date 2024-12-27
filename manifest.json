@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "name": "釣れるものを変えるアドオン 鉱石Ver",
+      "description": "釣れるものが鉱石だけになる",
+      "uuid": "776db493-1dce-47fa-b5fe-092b35517f62",
+      "version": [ 1, 0, 0 ],
+      "min_engine_version": [ 1, 21, 50 ]
+    },
+    "modules": [
+      {
+        "version": [ 1, 0, 0 ],
+        "type": "data",
+        "uuid": "d00e62c8-2faf-4d67-bb2c-23b5898c9b50",
+        "description": "data module"
+      }
+    ]
+}

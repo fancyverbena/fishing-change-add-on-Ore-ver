@@ -1,0 +1,59 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:nehterite_block",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:deepslate_cppper_ore",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:deepslate_iron_ore",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:deepslate_gold_ore",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:deepslate_redstone_ore",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:deepslate_lapis_ore",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:deepslate_diamond_ore",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:deepslate_emerald_ore",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:deepslate_quartz_ore",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:ancient_debris",
+          "weight": 10
+        }
+      ]
+    }
+  ]
+}

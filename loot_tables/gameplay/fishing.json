@@ -1,0 +1,21 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "loot_tables/gameplay/fishing/Ores.json",
+          "weight": 95,
+          "quality": 1
+        },
+        {
+            "type": "loot_table",
+            "name": "loot_tables/gameplay/fishing/Ores2.json",
+            "weight": 5,
+            "quality": -1
+        }
+      ]
+    }
+  ]
+}
